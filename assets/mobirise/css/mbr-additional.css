@@ -949,6 +949,9 @@ section.form .container {
 #form1-n .mbr-section-subtitle {
   text-transform: uppercase;
 }
+#form1-n .form-control-label {
+  color: undefined;
+}
 #footer1-15 .mbr-section-subtitle,
 #footer1-15 .mbr-section-text {
   color: #fff;
